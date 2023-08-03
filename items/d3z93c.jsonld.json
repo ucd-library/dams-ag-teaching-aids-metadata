@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0926805"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1257993"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/d3z93c.tif"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3z93c",
+    "D-528, Box:1, Folder:44"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3w10370c"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:material": "1 mounted print",
+  "schema:name": "44 This is a fish counting bucket inside the screened tank. After the majority of water is drained out of the holding tank, the fish counting bucket is lowered into place. The circular screen is raised allowing the remaining water and fish to be collected in the bucket.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1950-1959"
+}

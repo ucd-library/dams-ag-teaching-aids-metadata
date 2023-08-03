@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0829613",
+    "http://schema.org/name": "Beef cattle"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0886876",
+    "http://schema.org/name": "Dairy farmers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0886881",
+    "http://schema.org/name": "Dairy farming"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0926805",
+    "http://schema.org/name": "Fishways"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1089779",
+    "http://schema.org/name": "Ranching"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205577",
+    "http://schema.org/name": "California--Alameda County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1257993",
+    "http://schema.org/name": "California--Delta-Mendota Canal"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0926805"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1257993"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/d3n06m.tif"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3n06m",
+    "D-528, Box:1, Folder:31"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3w10370c"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:material": "1 mounted print",
+  "schema:name": "31 This is an aerial view of the Tracy Pumping Plant area which is the beginning of the Delta Mendota Canal. The upper right hand corner of the photograph shows the beginning of the inlet canal. Water is diverted from the Old River into the inlet canal which follows into the Tracy Pumping Plant. When water enters the pumping plant it is pumped up-hill for approximately one mile. This process lifts the water 200 feet so that it can start its gravity drain down the canal.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1950-1959"
+}

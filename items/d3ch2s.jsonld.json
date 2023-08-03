@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0926805"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1257993"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/d3ch2s.tif"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3ch2s",
+    "D-528, Box:1, Folder:33"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3w10370c"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:material": "1 mounted print",
+  "schema:name": "33 This is a rear view of the floating trash deflector shown at the mouth of the inlet canal where the water is diverted from the Old River into the canal. The river is to the left and the canal is to the right. In the right background can be seen the fish screen plant where the fish are screened and counted so they do not enter the canal.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1950-1959"
+}

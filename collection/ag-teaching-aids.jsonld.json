@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1257993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0886881"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0886876"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1089779"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0926805"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0829613"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205577"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2019"
+  },
+  "schema:description": "The collection contains mounted photographs used presumably by the Alameda County Schools Curriculum Materials Center and later by the Hayward Unified School District as a teaching tool. The photographs are related to three subjects: dairy farming, the Delta Mendota Canal Fish Diversion Facility, and cattle ranching in Alameda County. The photographs were presumably taken circa 1950-1959. Captions from the back of each photograph have been used as titles. The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt3w10370c).",
+  "schema:identifier": "D-528",
+  "schema:image": {
+    "@id": "/item/ark:/87293/d3rp9k/d3rp9k.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:name": "California Agricultural Teaching Aid Photograph Collection",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2019"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0886881"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0886876"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/d3pw6w.tif"
+  },
+  "schema:identifier": [
+    "D-528, Box:1, Folder:15",
+    "ark:/87293/d3pw6w"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3w10370c"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:material": "1 mounted print",
+  "schema:name": "15 The twice daily milking routine of the dairy farm begins when the cows are brought from pasture or corral to the 'holding pen' adjoining the milking barn. This well trained dog helps the herdsman to keep the cows from loitering along the way. Notice the sprinklers irrigating the distant pasture.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1950-1959"
+}

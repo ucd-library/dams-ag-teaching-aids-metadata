@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0886876"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0886881"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/d3j640.tif"
+  },
+  "schema:identifier": [
+    "D-528, Box:1, Folder:24",
+    "ark:/87293/d3j640"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3w10370c"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:material": "1 mounted print",
+  "schema:name": "24 This tester for the Dairy Herd Improvement Association visits the dairy farm once a month. He weighs each cow's milk and tests a sample for quality. From his records, the dairyman can tell how well each cow is producing.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1950-1959"
+}

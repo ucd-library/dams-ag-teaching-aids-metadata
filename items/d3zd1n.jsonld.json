@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0886881"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0886876"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/d3zd1n.tif"
+  },
+  "schema:identifier": [
+    "D-528, Box:1, Folder:13",
+    "ark:/87293/d3zd1n"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3w10370c"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:material": "1 mounted print",
+  "schema:name": "13 A well balanced month's feed ration for an average cow is shown here. Some dairymen vary the amount according to each cow's milk production. Excepting the alfalfa hay and the block salt, the various feeds are usually mixed and fed as 'concentrates.' The local feed dealer also supplies the concentrates ready mixed, either in bulk or in sacks.",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "circa 1950-1959"
+}
