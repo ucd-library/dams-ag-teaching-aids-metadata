@@ -49,7 +49,7 @@
    "ark:/87293/d35q4rt2k"
   ],
   "schema:image": {
-    "@id": "/item/ark:/87293/d3rp9k/d3rp9k.tif"
+    "@id": "info:fedora/item/ark:/87293/d3rp9k/d3rp9k.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/UND/1.0/"
