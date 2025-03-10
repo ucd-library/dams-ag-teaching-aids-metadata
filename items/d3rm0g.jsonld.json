@@ -30,7 +30,7 @@
     "D-528, Box:2, Folder:17"
   ],
   "schema:image": {
-    "@id": "@base:/d3rm0g.jpg"
+    "@id": "@base:/d3rm0g.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt3w10370c"
